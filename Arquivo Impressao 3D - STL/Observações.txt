@@ -1,0 +1,4 @@
+- Todos os arquivos foram verificador e revisados, sendo projetas para serem impressos em impressoras 3d, suas posiçoes ja estao determinas para oferecer uma melhor impressao e um qualidade de acabamento.
+Favor nao alterar o posicionamento das peças
+- O numero de peças e igual oa numero de arquivos 3D
+- As peças de acabamento nao sao iguais.
